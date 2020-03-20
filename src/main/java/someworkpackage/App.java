@@ -1,6 +1,6 @@
 package someworkpackage;
 
-import annotations.CustomJUnit;
+import frameworklogic.CustomJUnit;
 
 public class App {
     public static void main(String[] args) {

@@ -1,5 +1,8 @@
-package annotations;
+package frameworklogic;
 
+import annotations.After;
+import annotations.Before;
+import annotations.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -1,7 +1,7 @@
 package sometests;
 
 import annotations.Before;
-import annotations.MyAssertions;
+import frameworklogic.MyAssertions;
 import annotations.Test;
 import someworkpackage.SomeOperationsClass;
 

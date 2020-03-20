@@ -2,7 +2,7 @@ package sometests;
 
 import annotations.After;
 import annotations.Before;
-import annotations.MyAssertions;
+import frameworklogic.MyAssertions;
 import annotations.Test;
 import someworkpackage.SomeOperationsClass;
 
