@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a1138d-3b15-4830-8425-25cd3dd25dca" name="Default Changelist" comment="" />
+    <list default="true" id="b6a1138d-3b15-4830-8425-25cd3dd25dca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/After.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Before.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/ClassFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/CustomJUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/ReflectionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sometests/SomeFailTestsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sometests/SomeTestsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sometests/moretests/AnotherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/someworkpackage/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/someworkpackage/SomeOperationsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZAHeqvtM7lUSEJvaRUUCH364Ll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,9 +54,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="someworkpackage.App" />
+      <module name="MyTestFramework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,13 +93,56 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="3" key="SettingsEditor" timestamp="1584275178488">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1584687388769">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="200" y="3" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584275178488" />
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584275198883">
+    <state x="525" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1584687388769" />
+    <state x="516" y="288" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584693317310">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1584275198883" />
+    <state x="516" y="288" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1584693317310" />
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584696863893">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.860@0.0.1440.860" timestamp="1584696863893" />
+    <state x="500" y="183" key="FileChooserDialogImpl" timestamp="1584692309844">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="183" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584692309844" />
+    <state width="1395" height="218" key="GridCell.Tab.0.bottom" timestamp="1584704750190">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1395" height="218" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584704750190" />
+    <state width="1395" height="218" key="GridCell.Tab.0.center" timestamp="1584704750190">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1395" height="218" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584704750190" />
+    <state width="1395" height="218" key="GridCell.Tab.0.left" timestamp="1584704750190">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1395" height="218" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584704750190" />
+    <state width="1395" height="218" key="GridCell.Tab.0.right" timestamp="1584704750190">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1395" height="218" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584704750190" />
+    <state x="250" y="84" key="Maven.ArtifactSearchDialog" timestamp="1584701734922">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="250" y="84" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1584701734922" />
+    <state x="200" y="3" key="SettingsEditor" timestamp="1584692310702">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="3" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584692310702" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584686072646">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1584686072646" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584275540120">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1584275540120" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyTestFramework$App.ic" NAME="App Coverage Results" MODIFIED="1584688181425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
